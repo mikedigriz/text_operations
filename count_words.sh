@@ -1,4 +1,6 @@
 #!/bin/bash
+
+
 ARGS=1
 
 E_BADARGS=65
